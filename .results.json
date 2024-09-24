@@ -5,15 +5,15 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2024-09-24T09:47:29.073Z",
-    "end": "2024-09-24T09:47:29.493Z",
-    "duration": 420
+    "start": "2024-09-24T10:09:58.321Z",
+    "end": "2024-09-24T10:09:58.704Z",
+    "duration": 383
   },
   "tests": [
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,7 +55,7 @@
     {
       "title": "returns the distance travelled in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns the distance travelled in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,7 +108,7 @@
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -150,7 +150,7 @@
     {
       "title": "returns the distance travelled in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns the distance travelled in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
